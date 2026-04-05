@@ -4,11 +4,13 @@ I’m a Developer with 2.8 years of experience currently deep-diving into the AW
 I’m passionate about taking apps from "pixel-perfect" on the frontend to "high-availability" on the backend.
 
 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
 I've spent nearly 2.8 years crafting seamless user experiences. Now, I’m obsessed with what happens
 behind the scenes: Automation, Scalability, and Cloud Infrastructure.
 
 
 💎 𝐊𝐞𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
 𝐔𝐈 𝐭𝐨 𝐂𝐥𝐨𝐮𝐝 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Successfully hosted and optimized frontend projects using AWS S3 & CloudFront for global delivery.
 
 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐚𝐬 𝐂𝐨𝐝𝐞: Currently building automated VPC setups to deploy my UI projects with zero manual effort.
