@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello Wolrd ![Rotating_earth_mini](https://github.com/user-attachments/assets/6dad5c26-7078-4f7a-ba4e-e731a1684ecc)
+ 
 
 <!--
 **akashkolhe/akashkolhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
