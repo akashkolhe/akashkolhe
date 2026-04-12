@@ -8,6 +8,10 @@ I’m passionate about taking apps from "pixel-perfect" on the frontend to "high
 I've spent nearly 2.8 years crafting seamless user experiences. Now, I’m obsessed with what happens
 behind the scenes: Automation, Scalability, and Cloud Infrastructure.
 
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashkolhe1/)
+
 
 💎 𝐊𝐞𝐲 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
