@@ -6,15 +6,9 @@ I’m passionate about taking apps from "pixel-perfect" on the frontend to "high
 
 ### 🛠️ Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,angular,python,django" />
+</p>
 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 I've spent nearly 2.8 years crafting seamless user experiences. Now, I’m obsessed with what happens
