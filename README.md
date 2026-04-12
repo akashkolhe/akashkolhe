@@ -7,7 +7,7 @@ I’m passionate about taking apps from "pixel-perfect" on the frontend to "high
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,angular,python,django" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,React js , python" />
 </p>
 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
