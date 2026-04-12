@@ -7,7 +7,7 @@ I’m passionate about taking apps from "pixel-perfect" on the frontend to "high
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,React js , python" />
+  <img src="https://camo.githubusercontent.com/1835da36dd95f3f0948730ae4479b6279d6f114265a46b863dcf1fb79fd703ec/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" />
 </p>
 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
